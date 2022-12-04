@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\bin\Debug\net6.0\PlikiTekstowe.exe
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\bin\Debug\net6.0\PlikiTekstowe.deps.json
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\bin\Debug\net6.0\PlikiTekstowe.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\bin\Debug\net6.0\PlikiTekstowe.dll
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\bin\Debug\net6.0\PlikiTekstowe.pdb
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.dll
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\refint\PlikiTekstowe.dll
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.pdb
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\PlikiTekstowe.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\PlikiTekstowe\PlikiTekstowe\obj\Debug\net6.0\ref\PlikiTekstowe.dll
